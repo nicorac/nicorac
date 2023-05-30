@@ -2,7 +2,7 @@
 I'm an active open source supporter based somewhere... in northern Italy 🙄
 
 ## 🌐 Socials & Web links:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nicorac) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nicorac)<br/>
 [CoolSoft (my website)](https://coolsoft.altervista.org)
 
 # 💻 Tech Stack:
